@@ -42,10 +42,15 @@ Snippets for bClass libraries, all in one place. With this tool you can easily u
 # Documents
 
 > **bClass-animations for [documentation](https://github.com/EW-EndWall/bClass-animations/blob/main/versions/latest/docs/README.md)**
+
 > **bClass-components for [documentation](https://github.com/EW-EndWall/bClass-components/blob/main/versions/latest/docs/README.md)**
+
 > **bClass-media-player for [documentation](https://github.com/EW-EndWall/bClass-media-player/blob/main/versions/latest/docs/README.md)**
+
 > **bClass-theme-colors for [documentation](https://github.com/EW-EndWall/bClass-theme-colors/blob/main/versions/latest/docs/README.md)**
+
 > **bClass-theme-css for [documentation](https://github.com/EW-EndWall/bClass-theme-css/blob/main/versions/latest/docs/README.md)**
+
 > **bClass-theme-js for [documentation](https://github.com/EW-EndWall/bClass-theme-js/blob/main/versions/latest/docs/README.md)**
 
 # Usage Rights
