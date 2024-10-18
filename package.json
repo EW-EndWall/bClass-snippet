@@ -1,0 +1,109 @@
+{
+  "name": "bclass-snippets",
+  "displayName": "bClass snippets",
+  "description": "Snippets for bClass libraries, all in one place. With this tool you can easily use bClass libraries.",
+  "version": "1.0.0",
+  "publisher": "EndWall",
+  "author": {
+    "name": "EndWall"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EW-EndWall/bClass-snippets"
+  },
+  "homepage": "https://github.com/EW-EndWall/bClass-snippets#readme",
+  "bugs": {
+    "url": "https://github.com/EW-EndWall/bClass-snippets/issues",
+    "email": "support@example.com"
+  },
+  "engines": {
+    "vscode": "^1.8.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "icon": "images/bClass-snippets.png",
+  "contributes": {
+    "snippets": [
+      {
+        "language": "html",
+        "path": "./snippets/lib-import.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/bClass-animations-snippets.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/bClass-components-snippets.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/bClass-media-player-snippets.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/bClass-theme-colors-snippets.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/bClass-theme-css-snippets.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/bClass-theme-js-snippets.json"
+      },
+      {
+        "language": "vue",
+        "path": "./snippets/bClass-animations-snippets.json"
+      },
+      {
+        "language": "vue",
+        "path": "./snippets/bClass-components-snippets.json"
+      },
+      {
+        "language": "vue",
+        "path": "./snippets/bClass-media-player-snippets.json"
+      },
+      {
+        "language": "vue",
+        "path": "./snippets/bClass-theme-colors-snippets.json"
+      },
+      {
+        "language": "vue",
+        "path": "./snippets/bClass-theme-css-snippets.json"
+      },
+      {
+        "language": "vue",
+        "path": "./snippets/bClass-theme-js-snippets.json"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/bClass-animations-snippets.json"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/bClass-components-snippets.json"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/bClass-media-player-snippets.json"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/bClass-theme-colors-snippets.json"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/bClass-theme-css-snippets.json"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/bClass-theme-js-snippets.json"
+      }
+    ]
+  },
+  "dependencies": {
+    "@vscode/vsce": "^3.1.1"
+  }
+}

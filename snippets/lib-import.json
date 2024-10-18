@@ -1,0 +1,79 @@
+{
+  "jquery.js": {
+    "prefix": "lib-import-jquery",
+    "body": [
+      "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js\"></script>"
+    ],
+    "description": "Import jQuery"
+  },
+  "font-awesome.css": {
+    "prefix": "lib-import-font-awesome.css",
+    "body": [
+      "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css\">"
+    ],
+    "description": "Import font-awesome.css"
+  },
+  "bClass-animations.js": {
+    "prefix": "lib-import-bClass-animations.js",
+    "body": [
+      "<script src=\"https://dev.endwall.pw/libs/bClass/bClass-animations-min_1.1.0.js\"></script>"
+    ],
+    "description": "Import bClass-animations.js"
+  },
+  "bClass-animations.css": {
+    "prefix": "lib-import-bClass-animations.css",
+    "body": [
+      "<link rel=\"stylesheet\" href=\"https://dev.endwall.pw/libs/bClass/bClass-animations-min_1.1.0.css\">"
+    ],
+    "description": "Import bClass-animations.css"
+  },
+  "bClass-components.js": {
+    "prefix": "lib-import-bClass-components.js",
+    "body": [
+      "<script src=\"https://dev.endwall.pw/libs/bClass/bClass-components-min_1.1.0.js\"></script>"
+    ],
+    "description": "Import bClass-components.js"
+  },
+  "bClass-components.css": {
+    "prefix": "lib-import-bClass-components.css",
+    "body": [
+      "<link rel=\"stylesheet\" href=\"https://dev.endwall.pw/libs/bClass/bClass-components-min_1.1.0.css\">"
+    ],
+    "description": "Import bClass-components.css"
+  },
+  "bClass-media-player.js": {
+    "prefix": "lib-import-bClass-media-player.js",
+    "body": [
+      "<script src=\"https://dev.endwall.pw/libs/bClass/bClass-media-player-min_2.1.0.js\"></script>"
+    ],
+    "description": "Import bClass-media-player.js"
+  },
+  "bClass-theme-css.css": {
+    "prefix": "lib-import-bClass-theme-css.css",
+    "body": [
+      "<link rel=\"stylesheet\" href=\"https://dev.endwall.pw/libs/bClass/bClass-theme-css-min_2.0.0.css\">"
+    ],
+    "description": "Import bClass-theme-css.css"
+  },
+  "bClass-theme-js.js": {
+    "prefix": "lib-import-bClass-theme-js.js",
+    "body": [
+      "<script src=\"https://dev.endwall.pw/libs/bClass/bClass-theme-js-min_1.1.0.js\"></script>"
+    ],
+    "description": "Import bClass-theme-js.js"
+  },
+  "bClass-theme-all.css": {
+    "prefix": "lib-import-bClass-theme-all.css",
+    "body": [
+      "<link rel=\"stylesheet\" href=\"https://dev.endwall.pw/libs/bClass/bClass-theme-all-min_1.1.0.css\">"
+    ],
+    "description": "Import bClass-theme-all.css"
+  },
+  "bClass-theme-all.js": {
+    "prefix": "lib-import-bClass-theme-all.js",
+    "body": [
+      "<script src=\"https://dev.endwall.pw/libs/bClass/bClass-theme-all-min_1.1.0.js\"></script>"
+    ],
+    "description": "Import bClass-theme-all.js"
+  }
+}
